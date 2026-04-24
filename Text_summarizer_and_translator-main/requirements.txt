@@ -1,0 +1,1 @@
+pip install streamlit nltk pandas python-docx PyPDF2 reportlab deep-translator
